@@ -1,7 +1,7 @@
 Package: curatedMetagenomicData
 Type: Package
 Title: Curated Metagenomic Data of the Human Microbiome
-Version: 1.19.3
+Version: 1.19.4
 Author:
     Lucas Schiffer <schiffer.lucas@gmail.com>,
     Edoardo Pasolli <edoardo.pasolli@unitn.it>,
@@ -28,6 +28,7 @@ Imports:
     methods,
     S4Vectors,
     tidyr,
+    readr,
     utils
 Suggests:
     ape,
@@ -41,7 +42,6 @@ Suggests:
     knitr,
     metagenomeSeq,
     phyloseq,
-    readr,
     RISmed,
     rmarkdown,
     roxygen2,
@@ -54,4 +54,4 @@ biocViews:
 VignetteBuilder: knitr
 URL: https://github.com/waldronlab/curatedMetagenomicData
 BugReports: https://github.com/waldronlab/curatedMetagenomicData/issues
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
