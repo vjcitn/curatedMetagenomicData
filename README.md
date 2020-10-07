@@ -4,6 +4,8 @@
 [![downloads](https://www.bioconductor.org/shields/downloads/curatedMetagenomicData.svg)](http://bioconductor.org/packages/stats/data-experiment/curatedMetagenomicData/)
 [![posts](https://bioconductor.org/shields/posts/curatedMetagenomicData.svg)](https://support.bioconductor.org/t/curatedmetagenomicdata/)
 
+THIS IS AN EXPERIMENTAL FORK OF OF THE PACKAGE
+
 # curatedMetagenomicData
 
 *curatedMetagenomicData* uses [Bioconductor's](https://www.bioconductor.org)
